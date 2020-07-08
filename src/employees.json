@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "firstName": "James",
+    "lastName": "Flores",
+    "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.iconfinder.com%2Ficons%2F3311868%2Fcoin_dollar_finance_icon&psig=AOvVaw3UTWs8BnweHJgf1wf8nrWr&ust=1592770539241000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIip5eSakeoCFQAAAAAdAAAAABAD",
+    "occupation": "Finance"
+  },
+  {
+    "id": 2,
+    "firstName": "Ellen",
+    "lastName": "Ray",
+    "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Ficons8.com%2Ficon%2F54385%2Fcommunication&psig=AOvVaw0SHO2qQsBDeEgw9f6MPlt2&ust=1592770645117000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPDCxpabkeoCFQAAAAAdAAAAABAD",
+    "occupation": "Customer Service"
+  },
+  {
+    "id": 3,
+    "firstName": "Amy",
+    "lastName": "Olson",
+    "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Fpremium-icon%2Femail-marketing_2316093&psig=AOvVaw10xMbISYDADOOPtxxLI6JU&ust=1592770716381000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPDNgLqbkeoCFQAAAAAdAAAAABAJ",
+    "occupation": "Marketing"
+  },
+  {
+    "id": 4,
+    "firstName": "Brennan",
+    "lastName": "James",
+    "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vectorstock.com%2Froyalty-free-vector%2Fsales-icon-from-business-bicolor-set-vector-5375964&psig=AOvVaw3jLbwfxtgZBnMXm0mpH7SG&ust=1592770800700000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMCywOGbkeoCFQAAAAAdAAAAABAD",
+    "occupation": "Sales"
+  },
+  {
+    "id": 5,
+    "firstName": "Roger",
+    "lastName": "Ford",
+    "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.123rf.com%2Fphoto_96924204_hr-blue-flat-design-web-icon.html&psig=AOvVaw0dFJq-m5Sl_GmVnmeYPFvr&ust=1592770844234000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNDriPabkeoCFQAAAAAdAAAAABAD",
+    "occupation": "Human Resources"
+  },
+  {
+    "id": 6,
+    "firstName": "Sandra",
+    "lastName": "Tucker",
+    "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.iconfinder.com%2Ficons%2F3311868%2Fcoin_dollar_finance_icon&psig=AOvVaw3UTWs8BnweHJgf1wf8nrWr&ust=1592770539241000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIip5eSakeoCFQAAAAAdAAAAABAD",
+    "occupation": "Finance"
+  },
+  {
+    "id": 7,
+    "firstName": "Fred",
+    "lastName": "Perez",
+    "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Ficons8.com%2Ficon%2F54385%2Fcommunication&psig=AOvVaw0SHO2qQsBDeEgw9f6MPlt2&ust=1592770645117000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPDCxpabkeoCFQAAAAAdAAAAABAD",
+    "occupation": "Customer Service"
+  },
+  {
+    "id": 8,
+    "firstName": "Zach Chavez",
+    "lastName": "Chavez",
+    "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Fpremium-icon%2Femail-marketing_2316093&psig=AOvVaw10xMbISYDADOOPtxxLI6JU&ust=1592770716381000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPDNgLqbkeoCFQAAAAAdAAAAABAJ",
+    "occupation": "Marketing"
+  },
+  {
+    "id": 9,
+    "firstName": "Nora",
+    "lastName": "Freeman",
+    "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vectorstock.com%2Froyalty-free-vector%2Fsales-icon-from-business-bicolor-set-vector-5375964&psig=AOvVaw3jLbwfxtgZBnMXm0mpH7SG&ust=1592770800700000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMCywOGbkeoCFQAAAAAdAAAAABAD",
+    "occupation": "Sales"
+  },
+  {
+    "id": 10,
+    "firstName": "Jackson",
+    "lastName": "Reyes",
+    "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.123rf.com%2Fphoto_96924204_hr-blue-flat-design-web-icon.html&psig=AOvVaw0dFJq-m5Sl_GmVnmeYPFvr&ust=1592770844234000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNDriPabkeoCFQAAAAAdAAAAABAD",
+    "occupation": "Human Resources"
+  }
+]
